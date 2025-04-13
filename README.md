@@ -1,4 +1,4 @@
 # Mimo-Python-Development-Project-Chatbot-1
-This a simple chatbot that responds and answers questions.
+This a simple Python chatbot that responds and answers questions.
 
 
